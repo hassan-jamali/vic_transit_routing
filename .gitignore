@@ -1,0 +1,10 @@
+# block env folder and GTFS dataset
+/gtfs/
+/SIT315/
+
+# block all exported json files
+*.json
+
+# general OS system stuff
+.DS_Store
+Thumbs.db
